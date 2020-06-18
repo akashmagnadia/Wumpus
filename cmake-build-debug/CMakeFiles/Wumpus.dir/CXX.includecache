@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Akash/CLionProjects/Wumpus/Wumpus.cpp
+iostream
+-
+iomanip
+-
+cctype
+-
+cstdlib
+-
+ctime
+-
+cstring
+-
+string
+-
+

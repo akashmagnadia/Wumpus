@@ -1,0 +1,3 @@
+C:/Users/Akash/CLionProjects/Wumpus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Akash/CLionProjects/Wumpus/cmake-build-debug/CMakeFiles/Wumpus.dir
+C:/Users/Akash/CLionProjects/Wumpus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
